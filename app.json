@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "first-reactnative",
-    "slug": "first-reactnative",
-    "version": "1.0.0",
+    "name": "Aora",
+    "scheme": "aora",    
+    "slug": "aora",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
